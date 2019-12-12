@@ -21,6 +21,7 @@ int main(int argc, char** argv) {
     cout << "test" << endl;
     cout << "test2" << endl;
     cout << "test3" << endl;
+    cout << "ok" <<endl;
     return 0;
 }
 
